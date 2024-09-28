@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 
-     Copyright (C) 2014-2024 BlissRoms Project
+     Copyright (C) 2014-2024 ProjectEverest
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -22,7 +22,7 @@
     <string name="icon_pack_no_browser">There\'s no available browser</string>
 
     <!-- Application name -->
-    <string name="bliss_app_name" translatable="false">Blissify Home</string>
+    <string name="everest_app_name" translatable="false">Everest Home</string>
 
     <!-- Folder titles -->
     <string name="google_folder_title" translatable="false">Google</string>
@@ -214,8 +214,8 @@
     <string name="quickspace_date_format_minimalistic" translatable="false">EEEE, MMMM d</string>
 
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">Welcome to BlissRoms!</string>
-    <string name="quick_event_rom_intro_welcome_ext">Blissify your time!</string>
+    <string name="quick_event_rom_intro_welcome">Welcome to ProjectEverest!</string>
+    <string name="quick_event_rom_intro_welcome_ext">Climb to the peak!</string>
     <string-array name="welcome_message_variants">
         <item>Thank you for choosing us</item>
         <item>Loving us? Send us a beer</item>
@@ -361,12 +361,12 @@
         <item>Oh hey, what\'s up?</item>
         <item>Focus on your tasks</item>
         <item>How many screenshots do you take?</item>
-        <item>Open goodness with BlissRoms</item>
+        <item>Open goodness with ProjectEverest</item>
         <item>Spread love, not havoc</item>
         <item>We didn\'t start the fire!</item>
         <item>Time for some good music</item>
         <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>You need Bliss Premium to see this</item>
+        <item>You need Everest Premium to see this</item>
         <item>Remember the Lineage of the Unicorn</item>
         <item>Enjoy Xtended battery life</item>
         <item>Starting from the ground zero</item>

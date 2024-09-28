@@ -42,7 +42,7 @@ import com.android.quickstep.util.FadeOutRemoteTransition;
 
 import java.util.ArrayList;
 
-import com.android.internal.bliss.app.ParallelSpaceManager;
+import com.android.internal.everest.app.ParallelSpaceManager;
 
 import java.util.List;
 import java.util.Map;
